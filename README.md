@@ -12,6 +12,7 @@ In this game, you can also cut ice cubes to freeze the screen and win some
 useful seconds to slice all the fruits which are still on the screen.
 You can choose between three levels of difficulty, and to play the game in
 English or in French.
+
 This game is created using the PyGame library of Python.
 
 - Language used: Python
@@ -33,7 +34,7 @@ To use Fruit Ninja Slicer, follow these steps:
 
 1. Open the computer terminal.
 2. Navigate to the project directory: **`cd typing-game`**
-3. Launch the app.py file: **`py main.py`** or **`python main.py`** or **`python3 main.py`**
+3. Launch the main.py file: **`py main.py`** or **`python main.py`** or **`python3 main.py`**
 4. Play the game.
 
 ## **License**
